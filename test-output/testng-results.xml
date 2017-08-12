@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13541" started-at="2017-08-12T07:38:37Z" finished-at="2017-08-12T07:38:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13541" started-at="2017-08-12T07:38:37Z" finished-at="2017-08-12T07:38:50Z">
+      <class name="GitHubLogin.GitHubLogin.GitHubLoginTest">
+        <test-method status="PASS" signature="loadDriver()[pri:0, instance:GitHubLogin.GitHubLogin.GitHubLoginTest@204f30ec]" name="loadDriver" is-config="true" duration-ms="11450" started-at="2017-08-12T13:08:37Z" finished-at="2017-08-12T13:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadDriver -->
+        <test-method status="PASS" signature="inVlaidLogin()[pri:0, instance:GitHubLogin.GitHubLogin.GitHubLoginTest@204f30ec]" name="inVlaidLogin" duration-ms="2076" started-at="2017-08-12T13:08:48Z" finished-at="2017-08-12T13:08:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inVlaidLogin -->
+      </class> <!-- GitHubLogin.GitHubLogin.GitHubLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

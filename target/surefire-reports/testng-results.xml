@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18574" started-at="2017-08-12T15:46:27Z" finished-at="2017-08-12T15:46:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18574" started-at="2017-08-12T15:46:27Z" finished-at="2017-08-12T15:46:45Z">
+      <class name="GitHubLogin.GitHubLogin.GitHubLoginTest">
+        <test-method status="PASS" signature="loadDriver()[pri:0, instance:GitHubLogin.GitHubLogin.GitHubLoginTest@1a968a59]" name="loadDriver" is-config="true" duration-ms="2063" started-at="2017-08-12T21:16:27Z" finished-at="2017-08-12T21:16:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadDriver -->
+        <test-method status="PASS" signature="inVlaidLogin()[pri:0, instance:GitHubLogin.GitHubLogin.GitHubLoginTest@1a968a59]" name="inVlaidLogin" duration-ms="12157" started-at="2017-08-12T21:16:29Z" finished-at="2017-08-12T21:16:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inVlaidLogin -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:GitHubLogin.GitHubLogin.GitHubLoginTest@1a968a59]" name="validLogin" duration-ms="4257" started-at="2017-08-12T21:16:41Z" finished-at="2017-08-12T21:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:GitHubLogin.GitHubLogin.GitHubLoginTest@1a968a59]" name="closeDriver" is-config="true" duration-ms="83" started-at="2017-08-12T21:16:45Z" finished-at="2017-08-12T21:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- GitHubLogin.GitHubLogin.GitHubLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

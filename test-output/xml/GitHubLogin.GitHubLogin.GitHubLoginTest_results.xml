@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="19.305">
+  <properties />
+  
+  
+            <testcase name="inVlaidLogin" time="14.915" classname="GitHubLogin.GitHubLogin.GitHubLoginTest" />
+                <testcase name="validLogin" time="4.390" classname="GitHubLogin.GitHubLogin.GitHubLoginTest" />
+      
+</testsuite>
